@@ -1,10 +1,8 @@
 [theme]
 primaryColor = "#f63366"
-# backgroundColor = "#10344b"
-backgroundColor = "#111111"
-# secondaryBackgroundColor = "#154360"
-secondaryBackgroundColor = "#393939"
-textColor = "#fafafa"
+backgroundColor = "#ffffff"  # White background for main content
+secondaryBackgroundColor = "#f2f2f2"  # Light grey for sidebar background
+textColor = "#000000"  # Black text for contrast
 font = "sans serif"
 
 [server]
